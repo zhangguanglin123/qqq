@@ -1,0 +1,281 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	box-sizing: border-box;
+	-webkit-tap-highlight-color: raba(0,0,0,0);
+	-webkit-text-size-adjust: none;
+}
+a{
+	text-decoration: none;
+}
+body{
+	background-color: #edeff0;
+}
+header{
+	width: 100%;
+	height: 3.6rem;
+	background-image: linear-gradient(-90deg, #ff0000 2%,#fe330b 50%,#fd6115 100%),linear-gradient(#ff0000, #ff0000);
+	padding: 0.24rem 0.24rem 0;
+}
+.hh{
+	width: 100%;
+	height:0.6rem ;
+	/*background-color: blue;*/
+	display: flex;
+	justify-content: space-between;
+	align-content: center;
+}
+.hh1{
+	width: 0.5rem;
+	height: 100%;
+}
+.hh1 img{
+	width: 100%;
+	height: 100%;
+	float: left;
+}
+.hh2{
+	width: 0.4rem;
+	height: 100%;
+	padding-top: 0.1rem;
+}
+.hh2 i{
+	font-size: 0.4rem;
+	color: white;
+	float: right;
+}
+.hha{
+	width: 100%;
+	height: 1.6rem;
+	border-radius: 0.15rem;
+	background-color: white;
+	margin-top: 0.24rem;
+	padding: 0.24rem;
+}
+.hha1{
+	width: 3.12rem;
+	height: 100%;
+	/*background-color: pink;*/
+	float: left;
+}
+.hah1{
+	width: 1.12rem;
+	height: 100%;
+	/*background-color: blue;*/
+	float: left;
+}
+.hah1 img{
+	width: 100%;
+	height: 100%;
+}
+.hah2{
+	width: 1.88rem;
+	height: 100%;
+	/*background-color: yellow;*/
+	float: right;
+}
+.x1{
+	width: 100%;
+	height: 0.44rem;
+	/*background-color: green;*/
+}
+.xx1{
+	width: 0.8rem;
+	height: 0.44rem;
+	line-height: 0.44rem;
+	text-align: center;
+	/*background-color: gold;*/
+	float: left;
+	font-size: 0.24rem;
+	color: #fe390c;
+}
+.xx2{
+	width:0.6rem ;
+	height:0.3rem;
+	line-height: 0.3rem;
+	text-align: center;
+	border-radius: 0.1rem;
+	background-color: #fe7d6b;
+	float: left;
+	margin-top: 0.07rem;
+	font-size: 0.24rem;
+	color: white;
+}
+.x2{
+	width: 100%;
+	height: 0.3rem;
+	/*background-color: pink;*/
+}
+.x2 img{
+	width: 100%;
+	height: 100%;
+	float: left;
+}
+.x3{
+	width: 100%;
+	height: 0.44rem;
+	/*background-color: greenyellow;*/
+}
+.xx3{
+	width: 0.24rem;
+	height: 0.36rem;
+	/*background-color: gray;*/
+	float: left;
+	margin-top: 0.1rem;
+}
+.xx3 img{
+	width: 100%;
+	height: 100%;
+	float: left;
+}
+.xx4{
+	width: 1.64rem;
+	height: 0.3rem;
+	margin-top: 0.14rem;
+	/*background-color: pink;*/
+	float: right;
+	font-size: 0.18rem;
+	color: gray;
+	padding-left: 0.05rem;
+}
+.hha2{
+	width: 0.2rem;
+	height: 1.12rem;
+	line-height: 1.12rem;
+	text-align: center;
+	/*background-color: green;*/
+	float: right;
+	font-size: 0.36rem;
+	color: gray;
+}
+.a{
+	width: 100%;
+	height: 1.2rem;
+	border-radius: 0.15rem;
+	margin-top: 0.24rem;
+	background-color:white;
+	padding: 0.24rem;
+}
+.a1{
+	width: 100%;
+	height: 0.36rem;
+	/*background-color: pink;*/
+	font-size: 0.18rem;
+	display: flex;
+	justify-content: space-between;
+	color: gray;
+}
+.a1>p>span{
+	color: #fe390c;
+	font-size: 0.24rem;
+}
+.a2{
+	width: 100%;
+	height: 0.36rem;
+	/*background-color: lightgoldenrodyellow;*/
+	font-size: 0.24rem;
+	display: flex;
+	justify-content: space-between;
+	color: black;
+	
+}
+.a2 i{
+	font-size: 0.24rem;
+	color: #fe390c;
+}
+.a2>.pp>i{
+	color: #efc665;
+}
+.b{
+	width: 100%;
+	height: 3.12rem;
+	background-color:#edeff0;
+	margin-top: 0.84rem;
+	padding: 0 0.24rem;
+}
+.bb{
+	width: 100%;
+	height: 100%;
+	border-radius: 5%;
+	background-color: white;
+}
+.bb ul li{
+	width: 100%;
+	height: 1.04rem;
+	/*background-color: pink;*/
+	border-bottom: 0.01rem solid #DEDEDE;
+	font-size: 0.24rem;
+	line-height: 1.04rem;
+	text-align: left;
+	padding-left: 0.24rem;
+}
+.l3{
+	border: none;
+}
+.bb ul li i{
+	font-size: 0.5rem;
+}
+.l1>i{
+	color:#51acf9 ;
+}
+.l2>i{
+	color: #efc665 ;
+}
+.l3>i{
+	color: #c3ef65 ;
+}
+.c{
+	width: 100%;
+	height: 4.9rem;
+	background-color: #edeff0;
+}
+.s1{
+	width: 100%;
+	height: 1.24rem;
+	background-color: white;
+	position: fixed;
+	bottom: 0;
+}
+.s1>ul{
+	width: 100%;
+	height: 100%;
+}
+.s1>ul>li{
+	width: 25%;
+	height: 100%;
+	float: left;
+	text-align: center;
+}
+.s1>ul>li>a{
+	display: block;
+	width: 100%;
+	height: 100%;
+	font-size: 0.24rem;
+	padding-top: 0.2rem;
+	line-height: 0.5rem;
+	color:#050505 ;
+}
+.ss1>i,.ss2{
+	color: #FE0787;
+}
+.s1> ul >li >a>p>i{
+	font-size: 0.32rem;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

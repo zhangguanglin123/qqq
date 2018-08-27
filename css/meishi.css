@@ -1,0 +1,194 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	box-sizing: border-box;
+	-webkit-tap-highlight-color: raba(0,0,0,0);
+	-webkit-text-size-adjust: none;
+}
+a{
+	text-decoration: none;
+}
+header{
+	width: 100%;
+	height: 0.88rem;
+	
+	padding: 0 0.24rem;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;	
+	/*margin-top: 0.4rem;*/ 	
+}
+.m{
+	width: 100%;
+	height: 1.38rem;
+	position: fixed;
+	left: 0;
+	top: 0;
+	z-index: 999;
+}
+header{
+	background-color: white;
+}
+.a1{
+	width: 2.8rem;
+	height: 0.5rem;
+	font-size: 0.36rem;
+	line-height: 0.5rem;
+	color: black;
+    
+}
+.a2{
+	width: 0.5rem;
+	height: 0.5rem;
+}
+.a2 a{
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+.a1 a i,.a2 a i{
+	font-size: 0.36rem;
+	color:#fd6115 ;
+	float: left;
+}
+.lun1{
+	width: 100%;
+	height: 0.64rem;
+	padding-left: 0.24rem;
+	background-image: linear-gradient(-90deg, #ff0000 2%,#fe330b 50%,#fd6115 100%),linear-gradient(#ff0000, #ff0000);
+
+}
+.l1{
+	width: 6.26rem;
+	height: 100%;
+	display: flex;
+	white-space: nowrap;
+	/*overflow: hidden;*/
+	overflow-x: auto;
+	float: left;
+}
+.lun1 ul li{
+	flex-shrink: 0;
+	width: 1.2rem;
+	height: 0.64rem;
+	font-size: 0.3rem;
+	margin-right: 0.24rem;
+	line-height: 0.64rem;
+	text-align: center;
+	float: left;
+	color: white;
+	
+}
+.ding{
+	width: 1rem;
+	height: 0.64rem;
+	line-height: 0.64rem;
+	background-color: #ff0000;
+	float: right;
+	color: white;
+	font-size: 0.48rem;
+	text-align: center;
+	padding-top: 0.15rem;
+}
+.c1{
+	width: 100%;
+	height: 0.48rem;
+	padding: 0.12rem 0.4rem 0;
+	/*margin-top: 0.24rem;*/
+	display: flex;
+	justify-content: space-between;
+	background-color: white;
+}
+.c1>li>a{
+	display: block;
+	color: black;
+}
+.c1 a,.c1 a i{
+	font-size: 0.18rem;
+}
+.z1{
+	width: 100%;
+	height: 4rem;
+	/*background-color: blue;*/
+	margin-top: 1.98rem;
+}
+.zd1{
+	width: 100%;
+	height: 0.24rem;
+	background-color: #EDEFF0;
+}
+.z1>ul{
+	width: 100%;
+	height: 23.52rem;
+	background-color: #EDEFF0;
+	padding: 0 0.24rem;
+}
+.z1 ul li{
+	width: 100%;
+	height: 2.4rem;
+	border-radius: 0.2rem;
+	background-color: white;
+	padding: 0.24rem;
+	margin-bottom: 0.24rem;
+}
+
+.zzz1,.zzz2,.zzz3,.zzz4{
+	width: 1.32rem;
+	height: 1.32rem;
+	/*background-color: blue;*/
+	float: left;
+	
+}
+.zzz1 img,.zzz2 img,.zzz3 img,.zzz4 img{
+	width: 100%;
+	height: 100%;
+}
+.xz1,.xz2,.xz3,.xz4{
+	width: calc(100% - 1.32rem);
+	height: 1.8rem;
+	/*background-color: pink;*/
+	float: right;
+	font-size: 0.18rem;
+	color: #B8B8B8;
+	padding-left: 0.24rem;
+}
+h4{
+	font-size: 0.24rem;
+	color: black;
+}
+.xz1 i,.xz2 i,.xz3 i,.xz4 i{
+	color: #F9C451;
+}
+.xz1 p,.xz2 p,.xz3 p,.xz4 p{
+	width: 100%;
+	height: 0.4rem;
+}
+.xz1 button,.xz2 button,.xz3 button,.xz4 button{
+	width: 0.7rem;
+	height: 0.3rem;
+	color: white;
+	font-size: 0.18rem;
+	line-height: 0.3rem;
+	text-align: center;
+	border: none;
+}
+.xz1 .bu1 button,.xz2 .bu2 button,.xz3 .bu3 button,.xz4 .bu4 button{
+	background-color: #F3ABDA;
+}
+.xz1 .buo1 button,.xz2 .buo2 button,.xz3 .buo3 button,.xz4 .buo4 button{
+	background-color: #ABC8F3;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
